@@ -1,0 +1,9 @@
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\bin\Debug\Homework1.exe.config
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\bin\Debug\Homework1.exe
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\bin\Debug\Homework1.pdb
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.Form1.resources
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.Properties.Resources.resources
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.csproj.GenerateResource.Cache
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.exe
+C:\Users\Ray\Desktop\數位影像處理\作業\作業1\Homework1\Homework1\obj\Debug\Homework1.pdb
